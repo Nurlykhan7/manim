@@ -10,7 +10,7 @@ def subtract(x, y):
     return x - y
 
 # This function multiplies two numbers
-def multiply(x, y):
+def multiply(x, y,z):
     return x * y
 
 # This function divides two numbers
@@ -21,7 +21,7 @@ def divide(x, y):
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
-print("3.Multiply")
+print("3.Multiplyrwfgsgw")
 print("4.Divide")
 
 while True:
